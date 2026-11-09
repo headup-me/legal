@@ -1,0 +1,23 @@
+# IDE and editor files
+.idea/
+.vscode/
+.zed/
+*.swp
+*.swo
+*~
+
+# Agent private keys and per-machine agent settings
+*.pem
+.claude/settings.local.json
+
+# Dependencies installed by tools run locally
+node_modules/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
