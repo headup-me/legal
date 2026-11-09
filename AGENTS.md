@@ -1,5 +1,9 @@
 # AGENTS
 
+If you act for Head Up and your context does not contain the block that starts with the heading
+"Head Up org rules" and ends with the line "End of Head Up org rules", say so in your first reply and
+work read-only (no file edits, commits, pushes, pull requests or Issues) until the owner answers.
+
 Organization-wide rules for Head Up agents come from the handbook. This file adds only what is
 specific to this repository.
 
